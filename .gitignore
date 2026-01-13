@@ -1,0 +1,43 @@
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env*/
+.venv/
+virtualenv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db# created by virtualenv automatically
+*
